@@ -3,6 +3,7 @@ The User Interface design was inspired by https://www.youtube.com/watch?v=duNmhK
 
 # Password-Generator
 A password generator website built using JavaScript, HTML, and CSS
+
 Check it out here: https://password-generator-seven-flame.vercel.app/
 
 # Author & Date 
