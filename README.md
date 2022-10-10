@@ -1,5 +1,6 @@
 # Credits 
 The User Interface design was inspired by https://www.youtube.com/watch?v=duNmhKgtcsI 
+All the code is developed by me @hadisrour6
 
 # Password-Generator
 A password generator website built using JavaScript, HTML, and CSS
